@@ -1,9 +1,0 @@
-{
-  "valid_temperature_c": [-50, 55],
-  "valid_relative_humidity_pct": [0, 100],
-  "minimum_precipitation_mm": 0,
-  "duplicate_key": ["station_id", "timestamp_utc"],
-  "duplicate_policy": "keep the lowest row_id only",
-  "reason_codes": ["DUPLICATE_TIMESTAMP", "TEMP_RANGE", "RH_RANGE", "NEGATIVE_PRECIP"]
-}
-
