@@ -1,0 +1,7 @@
+{
+  "transition_pressure_gpa": 0.0,
+  "stable_below": "beta",
+  "stable_above": "alpha",
+  "warning": "legacy output; provenance unknown"
+}
+

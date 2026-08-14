@@ -1,0 +1,14 @@
+phase,two_theta_deg,relative_intensity
+alpha,20.00,100
+alpha,32.00,55
+alpha,40.00,35
+alpha,52.00,20
+beta,25.00,80
+beta,36.00,60
+beta,40.05,25
+beta,47.00,45
+gamma_decoy,18.00,100
+gamma_decoy,29.00,75
+gamma_decoy,44.00,55
+gamma_decoy,60.00,30
+

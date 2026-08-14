@@ -1,0 +1,5 @@
+sample_id,role,affected
+P1,proband,true
+F1,father,false
+M1,mother,false
+

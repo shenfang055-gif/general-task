@@ -1,0 +1,20 @@
+# 本仓库只维护 UI taskbook、配套 inputs 与逐题 oracles。
+*
+!.gitignore
+!README.md
+!docs/
+
+docs/*
+!docs/ai4s-ui-taskbook-v0.1.md
+!docs/inputs/
+!docs/inputs/**
+!docs/oracles/
+!docs/oracles/README.md
+!docs/oracles/*/
+!docs/oracles/*/oracle.py
+
+docs/inputs/**/__pycache__/
+docs/inputs/**/*.pyc
+docs/oracles/**/__pycache__/
+docs/oracles/**/*.pyc
+.DS_Store
