@@ -1,0 +1,4 @@
+interface:
+  display_name: "GeneralTask Skill"
+  short_description: "Design, run, and review AI4S general tasks"
+  default_prompt: "Use $generaltask-skill to design, run, or review an AI4S general task."
