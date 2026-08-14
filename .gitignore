@@ -12,6 +12,8 @@ docs/*
 !docs/oracles/README.md
 !docs/oracles/*/
 !docs/oracles/*/oracle.py
+!docs/outputs/
+!docs/outputs/.gitkeep
 
 docs/inputs/**/__pycache__/
 docs/inputs/**/*.pyc
